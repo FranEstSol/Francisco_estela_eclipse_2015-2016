@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LIBROS>
+	<LIBRO>
+		<TITULO>Titulo 1</TITULO>
+		<AUTOR>Autor 1</AUTOR>
+		<FECHA>Fecha 1</FECHA>
+		<EDITOR>Editor 1</EDITOR>
+		<PAGINAS>1</PAGINAS>
+	</LIBRO>
+	<LIBRO>
+		<TITULO>Titulo 2</TITULO>
+		<AUTOR>Autor 2</AUTOR>
+		<FECHA>Fecha 2</FECHA>
+		<EDITOR>Editor 2</EDITOR>
+		<PAGINAS>2</PAGINAS>
+	</LIBRO>
+	<LIBRO>
+		<TITULO>Titulo 3</TITULO>
+		<AUTOR>Autor 3</AUTOR>
+		<FECHA>Fecha 3</FECHA>
+		<EDITOR>Editor 3</EDITOR>
+		<PAGINAS>3</PAGINAS>
+	</LIBRO>
+	<LIBRO>
+		<TITULO>Titulo 4</TITULO>
+		<AUTOR>Autor 4</AUTOR>
+		<FECHA>Fecha 4</FECHA>
+		<EDITOR>Editor 4</EDITOR>
+		<PAGINAS>4</PAGINAS>
+	</LIBRO>
+</LIBROS>
